@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos Arias but you can call me hodge
-- 👀 I’m interested in artificial intelligence and how to implement it to improve our daily lives
-- 🌱 I’m currently learning machine learning as a path to my goal to the artificial intelligence knowledge 
-- 💞️ I’m looking to collaborate on these fields and to provide and improve my knowledge
+- 🧠 I’m interested in artificial intelligence and how to implement it to improve our daily lives
+- 👨🏽‍💻 I’m currently learning machine learning as a path to my goal to the artificial intelligence knowledge 
+- 👌🏽 I’m looking to collaborate on these fields and to provide and improve my knowledge
 - 📫 You can reach me by email: marcosariashodge@gmail.com.
